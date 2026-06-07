@@ -1,0 +1,11 @@
+com\pharmacymanagement\curapharm\DeleteHandlerServlet.class
+com\pharmacymanagement\curapharm\JakartaRestConfiguration.class
+com\pharmacymanagement\curapharm\DBConnection.class
+com\pharmacymanagement\curapharm\SupplierServlet.class
+com\pharmacymanagement\curapharm\resources\JakartaEE10Resource.class
+com\pharmacymanagement\curapharm\CategoryServlet.class
+com\pharmacymanagement\curapharm\BillingServlet.class
+com\pharmacymanagement\curapharm\MedicineServlet.class
+com\pharmacymanagement\curapharm\LoginServlet.class
+com\pharmacymanagement\curapharm\EditHandlerServlet.class
+com\pharmacymanagement\curapharm\UserServlet.class
